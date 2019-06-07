@@ -1,0 +1,10 @@
+[package]
+name = "kiss3d-rotating-color-changing-cube"
+version = "0.1.0"
+authors = ["dittusch <bolker.dittusch@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+kiss3d = "0.20.1"
+nalgebra = "0.18.0"
+rand = "0.6.5"
